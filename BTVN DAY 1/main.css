@@ -1,0 +1,60 @@
+html{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+#Tieude{
+    text-align: center;
+    color: rgb(243, 123, 145);
+
+}
+#anh{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+/* Cái dòng này em vẫn chưa hiểu lắm, dòng cho chữ cùng dòng ảnh ý */
+.image-with-text {
+    display: flex;
+    align-items: last baseline;
+    color: rgb(24, 24, 24);
+  }
+
+.image-with-text img {
+    margin-right: 10px;
+}
+
+
+#namephu{
+    color: red;
+    margin-left: 5px;
+}
+#sothich{
+    color: rgb(86, 134, 13);
+    background-color: rgb(183, 225, 119);
+}
+h2{
+    color: rgb(255, 138, 158);
+    background-color: pink;
+}
+#linkfb{
+    color: rgb(255, 100, 126);
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.so{
+    text-align: center;
+}
+.nen{
+    background-color: rgb(255, 255, 91);
+}
+#ngoisao{
+    color: rgb(20, 125, 20);
+}
