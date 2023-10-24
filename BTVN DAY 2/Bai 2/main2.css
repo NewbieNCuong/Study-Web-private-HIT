@@ -6,8 +6,9 @@ html{
 #tongthe{
     background-color: white;
     width: 330px;
-    height: 350px;
-    margin: 130px 0px 100px 450px ;
+    /* height: 350px; */
+    padding: 30px;
+    margin: 130px auto;
     border-radius: 10px;
     box-shadow: 5px 0 10px rgba(0, 0, 0, 0.3), -5px 0 10px rgba(0, 0, 0, 0.3);
 }
