@@ -3,3 +3,50 @@ html{
     background-color: #f1f5f9;
     color: #212b36;
 }
+#tongthe{
+    background-color: white;
+    width: 330px;
+    height: 350px;
+    margin: 130px 0px 100px 450px ;
+    border-radius: 10px;
+    box-shadow: 5px 0 10px rgba(0, 0, 0, 0.3), -5px 0 10px rgba(0, 0, 0, 0.3);
+}
+#tongthe1{
+    margin: 20px;
+}
+#chudao{
+    color: #624bff;
+    padding: 0;
+    
+}
+#dong1{
+    font-size: 14px;
+}
+.signin{
+    background-color: #624bff;
+    color: #f1f5f9;
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+    margin: 20px 10px 10px 0px;
+}
+.dangnhap{
+    width: 280px;
+    height: 25px;
+    margin-top: -5px;
+    text-indent: 20px;
+}
+.dongcuoi{
+    font-size: 13px;
+}
+.bentrai{
+    margin-right: 36px;
+}
+button{
+    width: 5px;
+    height: 15px;
+}
+
+.password{
+    margin-bottom: 12.5px;
+}
