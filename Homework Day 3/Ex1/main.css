@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+    /* margin-bottom: auto; */
+}
+.aceil{
+    background-color: orange;
+    /* margin: 20px; */
+    width: 30px;
+    height: 30px;
+}
+.elementone{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+.elementtwo{
+    margin: 10px;
+}
+.elementthree{
+    display: flex;
+    margin: 10px;
+}
+.elementfive{
+    margin: 10px;
+}
+.elementfour{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+.special{
+    align-self: flex-start;
+}

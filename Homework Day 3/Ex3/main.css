@@ -1,0 +1,96 @@
+html{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(234, 232, 232);
+}
+p{
+    font-weight: lighter;
+    display: block;
+}
+.All{
+    margin: 3rem 6rem;
+    /* width: 400px;
+    align-items: center; */
+    /* margin: 20px; */
+}
+.head{
+    display: flex;
+    align-items: center;
+}
+
+.head2{
+    margin: auto;
+    margin-right: 0px;
+}
+.body1{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    font-size: 12px;
+}
+.mucluc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* justify-content: space-between; */
+    margin: auto;
+    margin-right: 0;
+}
+.mucluc > p{
+    margin-left: 1em;
+}
+.mucluc > p:hover{
+    text-decoration: underline;
+}
+.body2{
+    
+}
+.row1, .row2{
+    display: flex;
+}
+.row1 img, .row2 img{
+    width: 32.5%;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+.footerone{
+    text-align: center;
+    /* line-height: 0.5; */
+}
+.below{
+    font-size: small;
+}
+.footertwo{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    /* width: ; */
+}
+.footertwo img{
+    width: 16%;
+}
+.footerthree{
+    text-align: center;
+    /* line-height: ; */
+}
+.footerend{
+    display: flex;
+}
+.license{
+    display: flex;
+    align-items: center;
+}
+.icon{
+    margin: auto;
+    margin-right: 0;
+    font-size: large;
+}
+.icon > i{
+    margin-right: 2em;
+}
+
+.iconsize{
+    font-size: x-large;
+    color: lightsteelblue
+    /* border: 2px solid black; */
+}
