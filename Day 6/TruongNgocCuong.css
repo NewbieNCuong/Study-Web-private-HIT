@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+    height: 50px;
+    align-items: center;
+    border: black solid;
+}
+
+.flex{
+    display: flex;
+}
+
+.flexwrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left{
+    margin-right: 10px;
+}
+
+.header .benefit{
+    display: flex;
+
+}
+
+.header .logo{
+    color: white;
+}
+
+.header .logo > i{
+    color: black;
+}
+
+.header .search > input{
+    height: 30px;
+    width: 400px;
+}
+
+/* .header .search > i{
+    background-color: black;
+    height: 30px;
+    width: 30px;
+    margin-left: -4px;
+    align-items: center;
+} */
+
+.header .search > i{
+    color: white;
+    font-size: 20px;
+}
+
+.header .benefit .icon1{
+    flex-direction: column;
+    align-items: center;
+}
+
+.header .benefit .icon2{
+    flex-direction: column;
+    align-items: center;
+}
+
+.header .benefit .icon3{
+    flex-direction: column;
+    align-items: center;
+}
+
+.color1{
+    color: #fff;
+}
+
+.Menu{
+    justify-content: space-around;
+    height: 30px;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+
+.Content .headercontent{
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.Content .bodycontent .left .row > div > img{
+    width: 150px;
+}
