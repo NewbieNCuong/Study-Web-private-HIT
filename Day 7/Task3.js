@@ -1,0 +1,5 @@
+let s = prompt("Enter string: ")
+s = s.replaceAll(",", " ")
+s = s.trim()
+const s1 = s.split(" ")
+console.log(s1[s1.length - 1].length)
